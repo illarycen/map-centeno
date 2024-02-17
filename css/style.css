@@ -126,7 +126,6 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
-  background: var(--neutro);
 }
 
 .in-focus {
@@ -191,6 +190,10 @@ h2 {
 
 div #logo {
   background: var(--tiramisu);
+}
+
+p .description {
+  background: var(--neutro);
 }
 
 
