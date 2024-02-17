@@ -109,6 +109,7 @@ body {
   font-size: 1.5em;
   padding: 0 5px;
   font-family: 'PT Sans Narrow', sans-serif;
+  background: var(--cafe);
 }
 
 .source {
@@ -125,6 +126,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  background: var(--neutro);
 }
 
 .in-focus {
@@ -191,11 +193,4 @@ div #logo {
   background: var(--tiramisu);
 }
 
-p .chapter-header {
-  background: var(--cafe);
-}
-
-p .description {
-  background: var(--neutro);
-}
 
