@@ -1,3 +1,10 @@
+:root {
+  --green: #ccd5ae;
+  --lightgreen: #e9edc9;
+  --neutro: #fefae0;
+  --tiramisu: #faedcd;
+  --cafe: #d4a373;
+}
 body {
   padding: 0px;
   margin: 0px;
@@ -169,6 +176,7 @@ h1 {
   font-family: 'Bebas Neue', sans-serif;
   margin: 0;
   font-size: 4em;
+  background: var(--green);
 }
 
 h2 {
