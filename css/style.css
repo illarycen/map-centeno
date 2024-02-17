@@ -71,6 +71,7 @@ body {
   margin: 50px 0 0 0;
   padding: 20px 0 0 0;
   text-align: center;
+  background: var(--neutro);
 }
 
 .chapter-container img {
@@ -192,8 +193,6 @@ div #logo {
   background: var(--tiramisu);
 }
 
-p .description {
-  background: var(--neutro);
-}
+
 
 
