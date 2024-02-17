@@ -4,6 +4,7 @@
   --neutro: #fefae0;
   --tiramisu: #faedcd;
   --cafe: #d4a373;
+  --darkgreen: #344e41;
 }
 body {
   padding: 0px;
@@ -177,7 +178,7 @@ h1 {
   margin: 0;
   font-size: 3.2em;
   background: var(--green);
-  color: darkgreen;
+  color: var(--darkgreen);
 }
 
 h2 {
