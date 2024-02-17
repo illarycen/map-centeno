@@ -116,10 +116,10 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: var(--neutro);
 }
 a.source:visited {
-  color: grey;
+  color: var(--neutro);
 }
 
 .description {
