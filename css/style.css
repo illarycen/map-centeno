@@ -190,10 +190,6 @@ div #logo {
   background: var(--tiramisu);
 }
 
-p .description {
-  background: var(--lightgreen);
-}
-
 p .chapter-header {
   background: var(--cafe);
 }
