@@ -116,10 +116,10 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: var(--neutro);
+  color: gray;
 }
 a.source:visited {
-  color: var(--neutro);
+  color: grey;
 }
 
 .description {
@@ -193,8 +193,26 @@ div #logo {
   background: var(--tiramisu);
 }
 
-.container {
+#container1 {
   background: var(--neutro)!important;
 }
 
+#container2 {
+  background: var(--neutro)!important;
+}
 
+#container3 {
+  background: var(--neutro)!important;
+}
+
+#container4 {
+  background: var(--neutro)!important;
+}
+
+#container5 {
+  background: var(--neutro)!important;
+}
+
+#container6 {
+  background: var(--neutro)!important;
+}
