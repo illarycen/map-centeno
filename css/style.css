@@ -193,7 +193,7 @@ div #logo {
   background: var(--tiramisu);
 }
 
-#container1 {
+p .description {
   background: var(--neutro)!important;
 }
 
