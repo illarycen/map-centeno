@@ -131,7 +131,6 @@ a.source:visited {
 
 .in-focus {
   opacity: 1.0;
-   background: var(--neutro);
 }
 
 .out-focus {
@@ -194,4 +193,32 @@ div #logo {
   background: var(--tiramisu);
 }
 
+#container1 {
+   background: var(--neutro) !important;
+   border-color: var(--neutro)
+}
+
+#container2 {
+   background: var(--neutro) !important;
+}
+
+#container3 {
+   background: var(--neutro) !important;
+}
+
+#container4 {
+   background: var(--neutro) !important;
+}
+
+#container5 {
+   background: var(--neutro) !important;
+}
+
+#container6 {
+   background: var(--neutro) !important;
+}
+
+#container7 {
+   background: var(--neutro) !important;
+}
 
